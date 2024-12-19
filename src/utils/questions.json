@@ -1,0 +1,52 @@
+{
+  "intelligence": {
+    "question": "How would you rate your intelligence?",
+    "options": [
+      { "value": "50", "label": "Sharp Mind" },
+      { "value": "10", "label": "Mere Mortal" },
+      { "value": "90", "label": "Einstein-level" },
+      { "value": "70", "label": "Genius" },
+      { "value": "30", "label": "Keen Observer" }
+    ]
+  },
+  "strength": {
+    "question": "How would you rate your physical strength?",
+    "options": [
+      { "value": "90", "label": "Superhuman" },
+      { "value": "30", "label": "Average Joe" },
+      { "value": "70", "label": "Herculean" },
+      { "value": "50", "label": "Strongman" },
+      { "value": "10", "label": "Twig-like" }
+    ]
+  },
+  "speed": {
+    "question": "How would you rate your speed?",
+    "options": [
+      { "value": "90", "label": "Blur" },
+      { "value": "10", "label": "Snail's Pace" },
+      { "value": "30", "label": "Leisurely" },
+      { "value": "70", "label": "Speedster" },
+      { "value": "50", "label": "Swift" }
+    ]
+  },
+  "durability": {
+    "question": "How durable do you consider yourself?",
+    "options": [
+      { "value": "50", "label": "Resilient" },
+      { "value": "30", "label": "Tough Cookie" },
+      { "value": "70", "label": "Indestructible" },
+      { "value": "10", "label": "Fragile" },
+      { "value": "90", "label": "Immortal" }
+    ]
+  },
+  "power": {
+    "question": "What best represents your unique powers?",
+    "options": [
+      { "value": "70", "label": "Nigh Omnipotent" },
+      { "value": "10", "label": "Novice" },
+      { "value": "90", "label": "God-like" },
+      { "value": "50", "label": "Formidable" },
+      { "value": "30", "label": "Gifted" }
+    ]
+  }
+}
